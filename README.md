@@ -6,7 +6,8 @@
 Group project exercise 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![](dragon.png)
+![](map.png)
 
 ## Technologies
 * Java 11
