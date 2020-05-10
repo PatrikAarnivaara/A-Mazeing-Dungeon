@@ -1,4 +1,3 @@
-README TEMPLATE
 # A-Mazeing-Dungeon
 > Console based game inspired by the Dungeon Maze game.
 
@@ -13,10 +12,9 @@ Group project exercise
 * Java 11
 
 ## Setup
-Describe how to install / setup your local environment / add link to demo version.
+Import to optional IDE.
 
 ## Code Examples
-Show examples of usage:
 `private boolean moveHeroEast() {
     if (this.maze.isARoom(this.hero.eastOfHero()) && this.hero.getCol() < this.maze.getMaze()[0].length - 1) {
         this.maze.removeHeroFromMapAndMaze(this.hero);
@@ -52,8 +50,6 @@ private boolean moveHeroSouth() {
 `
 
 ## Features
-List of features ready and TODOs for future development
-Sound
 * Fight enemies
 * Buy weapons
 * Find potion
@@ -62,7 +58,7 @@ Sound
 * Save/Load game
 * Graphics
 * Level up
-
+* Sound
 
 ## Status
 Project is:_finished_
